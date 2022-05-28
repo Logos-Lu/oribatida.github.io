@@ -1,11 +1,11 @@
-# Update on 29 May 2022
+## Update on 29 May 2022
 We get reply from two invited speakers, and they are all willing to come. 
 
-# Subias's world list of Oribatida
+## Subias's world list of Oribatida
 Logos managed to organize all the species in excel. We count in total 11436 species of Oribatida worldwide.
 
-# Meeting Openning Call
-## 13. Milbenkundliche Kolloquium
+## Meeting Openning Call
+### 13. Milbenkundliche Kolloquium
 Liebe Acarologen und Milben-Begeisterte, Dear Acarologists and mite enthusiasts, 
  
 Das 13. Milbenkundliche Kolloquium findet vom 5. - 7. Oktober an der Universität Göttingen statt! 
@@ -18,7 +18,7 @@ Wir werden zwei Keynote Speaker zum Kolloquium einladen, wobei molekulargenetisc
  
 Im Anhang findest Du das Anmeldeformular. Wenn Du kommen willst (in Person oder digital) schick bitte das Formular ausgefüllt zurück an: milbenkolloquium@senckenberg.de
  
-## 13th acarological colloquium
+### 13th acarological colloquium
 The 13th acarological colloquium will take place from October 5th to 7th at the University of Göttingen!
  
 We invite you to present your research and to enrich the colloquium with it. We encourage everyone to present in English, but presentations in German are also welcome.
