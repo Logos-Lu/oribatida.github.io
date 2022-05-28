@@ -4,10 +4,6 @@ We get reply from two invited speakers, and they are all willing to come.
 ## Subias's world list of Oribatida
 Logos managed to organize all the species in excel. We count in total 11436 species of Oribatida worldwide.
 
-```markdown
-# I hope we can see the picture!
-![worldwide Oribatida species](/oribatida.github.io/assets/species by year.png)
-```
 ![worldwide Oribatida species](/oribatida.github.io/assets/species by year.png)
 
 ## Meeting Openning Call
