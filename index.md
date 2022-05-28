@@ -1,7 +1,10 @@
-# Mites and more
+# Update on 29 May 2022
+We get reply from two invited speakers, and they are all willing to come. 
 
+# Subias's world list of Oribatida
+Logos managed to organize all the species in excel. We count in total 11436 species of Oribatida worldwide.
 
-# Meeting first call
+# Meeting Openning Call
 ## 13. Milbenkundliche Kolloquium
 Liebe Acarologen und Milben-Begeisterte, Dear Acarologists and mite enthusiasts, 
  
@@ -29,12 +32,3 @@ Attached you will find the registration form. If you want to come (in presence o
 Wir laden Euch herzlich ein und freuen uns auf die Veranstaltung, We warmly invite you and look forward to the event!
  
 Dorothee Sandmann, Ina Schaefer, Jingzhong Lu and Mark Maraun
-
-
-```markdown
-```
-
-## Subias's world list of Oribatida is now in excel
-
-We count in total 11436 species of Oribatida worldwide.
-
