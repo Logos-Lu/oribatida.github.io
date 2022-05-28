@@ -6,9 +6,9 @@ Logos managed to organize all the species in excel. We count in total 11436 spec
 
 ```markdown
 # I hope we can see the picture!
-![worldwide Oribatida species](/oribatid.github.io/species by year.png)
+![worldwide Oribatida species](/oribatida.github.io/species by year.png)
 ```
-![worldwide Oribatida species](/oribatid.github.io/species by year.png)
+![worldwide Oribatida species](/oribatida.github.io/species by year.png)
 
 ## Meeting Openning Call
 ### 13. Milbenkundliche Kolloquium
