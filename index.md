@@ -16,7 +16,7 @@ We are trying to look over all species name existing and summarise what we can l
 2. Towards a globla synthesis of oribatid knowledge
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more details see [Logos Lu](https://www.researchgate.net/profile/Jing-Zhong-Lu).
 
 ### Jekyll Themes
 
@@ -24,4 +24,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Contract Logos [Jingzhong Lu](mites.colloquium@gmail.com) or join us coming acarology colloquium at Goettingen.
