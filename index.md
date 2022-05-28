@@ -1,29 +1,19 @@
-## Welcome to GitHub Pages
+## Subias's world list of Oribatida is now in excel
 
-You can use the [editor on GitHub](https://github.com/Logos-Lu/oribatida.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We count in total 11436 species of Oribatida worldwide.
 
 ```markdown
-Syntax highlighted code block
+We are trying to look over all species name existing and summarise what we can learn from paster 250 years of oribatid research
 
-# Header 1
-## Header 2
-### Header 3
+# Oribatida
+## richness
+## taxonomist numbers
 
-- Bulleted
-- List
+- Who described most number of oribatid species?
+- How many Oribatida species described each year?
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1. Forming a global oribatid team
+2. Towards a globla synthesis of oribatid knowledge
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
